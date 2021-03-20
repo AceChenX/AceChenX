@@ -1,4 +1,28 @@
-### Hi there 👋
+### Hello there 👋
+
+🏔️ 🚲 ⚾ 🎸 🍜 📷
+
+🧋 Taiwanese
+
+🔧 Experimental atomic physicist
+
+
+⚛️ Quantum engineer
+
+🐍 Pythonista
+
+🎒 Backpacker
+
+⚕️ EMT/WEMT
+
+🪂 Paratrooper
+
+🎓 Ph.D.
+
+
+🏫 NTU | Academia Sinica
+
+🗿 he / him / his
 
 <!--
 **AceChenX/AceChenX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
