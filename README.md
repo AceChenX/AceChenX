@@ -1,40 +1,15 @@
-### Hello there 👋
+### Hi there 👋
 
-🏔️ 🚲 ⚾ 🎸 🍜 📷
+I'm
 
-🧋 Taiwanese
+🔧 Experimental atomic physicist ⚛️ Quantum engineer 🐍 Pythonista
 
-🔧 Experimental atomic physicist
+🏔️ Mountaineer 🚲 Cyclist 🥁 Drummer
 
+🎒 Backpacker 📷 Photographer 🍜 Foodie
 
-⚛️ Quantum engineer
+⚕️ EMT/WEMT 🪂 Paratrooper 🎓 Ph.D.
 
-🐍 Pythonista
+🏫 NTU | Academia Sinica alumnus
 
-🎒 Backpacker
-
-⚕️ EMT/WEMT
-
-🪂 Paratrooper
-
-🎓 Ph.D.
-
-
-🏫 NTU | Academia Sinica
-
-🗿 he / him / his
-
-<!--
-**AceChenX/AceChenX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧋 Taiwanese 🗿 he / him / his
