@@ -1,8 +1,9 @@
 ### Hi there 👋
+<!--
 
 I'm
 
-🔧 Experimental atomic physicist ⚛️ Quantum engineer 🐍 Pythonista
+🔧 Experimental atomic physicist ⚛️ Quantum scientist 🐍 Pythonista
 
 🏔️ Mountaineer 🚲 Cyclist 🥁 Drummer
 
@@ -13,3 +14,5 @@ I'm
 🏫 NTU | Academia Sinica alumnus
 
 🧋 Taiwanese 🗿 he / him / his
+
+-->
