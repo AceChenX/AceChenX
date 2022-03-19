@@ -1,4 +1,4 @@
-### I code, I rock 🤘
+![formula](https://render.githubusercontent.com/render/math?math=\langle%20\textbf{quantum}|\textbf{worker}\rangle)
 <!--
 
 I'm
