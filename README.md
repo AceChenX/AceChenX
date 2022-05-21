@@ -1,4 +1,4 @@
-![formula](https://render.githubusercontent.com/render/math?math=\langle%20\textbf{quantum}|\textbf{worker}\rangle)
+$\langle\text{quantum}|\text{worker}\rangle$
 <!--
 
 I'm
