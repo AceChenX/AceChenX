@@ -1,4 +1,4 @@
-$\langle\text{quantum}|\text{worker}\rangle$
+$\langle\text{quantum}|\text{handyman}\rangle$
 <!--
 
 I'm
