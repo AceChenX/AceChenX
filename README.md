@@ -1,4 +1,4 @@
-$\langle\text{quantum}|\text{handyman}\rangle$
+$\langle\text{quantum}|\text{mechanic}\rangle$
 <!--
 
 I'm
@@ -11,7 +11,7 @@ I'm
 
 ⚕️ EMT/WEMT 🪂 Paratrooper 🎓 Ph.D.
 
-🏫 NTU | Academia Sinica alumnus
+🏫 NTU | Academia Sinica | Purdue alumnus
 
 🧋 Taiwanese 🗿 he / him / his
 
